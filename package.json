@@ -1,0 +1,13 @@
+{
+  "name": "playwright-demo",
+  "version": "1.0.0",
+  "description": "playwright-demo",
+  "main": "index.js",
+  "scripts": {},
+  "author": "kuikuiGe",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.24"
+  }
+}
